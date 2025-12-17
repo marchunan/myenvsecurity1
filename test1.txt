@@ -1,2 +1,4 @@
 Good Morning -from Master
 Good Morning - from Auto
+Good Morning from Master
+Good Morning from Auto
